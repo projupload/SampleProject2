@@ -11,7 +11,6 @@ public class MyViewModel {
 	@Init
 	public void init() {
 		count = 100;
-		System.out.printlln("tst");
 	}
 
 	@Command
